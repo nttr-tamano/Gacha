@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gacha</string>
+    <string name="txt_Title">ガチャガチャ</string>
+    <string name="btn_Exec">実　行</string>
+</resources>
